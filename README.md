@@ -1,3 +1,3 @@
 # Project 2
 
-- This is local repo
+- This is local repo.
